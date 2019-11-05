@@ -10,7 +10,7 @@
 
 ![](docs/circuitry.png)
 
-## media
+## photos
 
 !["Setup"](docs/setup.jpeg)
 
@@ -18,9 +18,11 @@
 
 !["Top Case"](docs/top-case.jpeg)
 
-!["Inside"](docs/inside.jpeg)
+!["Open"](docs/open.jpeg)
 
-!["Opened Up](docs/separated.jpeg)
+!["Separated"](docs/separated.jpeg)
+
+## video
 
 [![video](https://img.youtube.com/vi/y-m8StMGKLE/0.jpg)](https://www.youtube.com/watch?v=y-m8StMGKLE)
 ![](https://youtu.be/y-m8StMGKLE)
