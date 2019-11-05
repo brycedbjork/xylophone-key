@@ -10,18 +10,17 @@
 
 ![](docs/circuitry.png)
 
-## images
+## media
 
-![](docs/setup.jpeg)
+!["Setup"](docs/setup.jpeg)
 
-![](docs/enclosure.jpeg)
+!["Enclosure"](docs/enclosure.jpeg)
 
-![](docs/top-case.jpeg)
+!["Top Case"](docs/top-case.jpeg)
 
-![](docs/inside.jpeg)
+!["Inside"](docs/inside.jpeg)
 
-![](docs/separated.jpeg)
+!["Opened Up](docs/separated.jpeg)
 
-## video
-
+[![video](https://img.youtube.com/vi/y-m8StMGKLE/0.jpg)](https://www.youtube.com/watch?v=y-m8StMGKLE)
 ![](https://youtu.be/y-m8StMGKLE)
